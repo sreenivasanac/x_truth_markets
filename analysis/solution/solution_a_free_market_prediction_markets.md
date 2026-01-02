@@ -110,18 +110,6 @@ Practical rules inspired by “credible neutrality”:
   - links to primary sources
   - buy/sell YES/NO
 
-## MVP plan
-
-- Browser extension (or simple web overlay) that attaches a “claim page” link to selected tweets.
-- Human-in-the-loop claim creation (manual claim entry + template).
-- AI-assisted claim extraction + duplicate merging.
-- Basic market engine (start with play-money + reputation to reduce legal risk).
-- Resolution workflow: predefined sources + small manual resolution panel + appeal.
-- Reputation updates + simple participant dashboards.
-- Expand to more claim categories.
-- Monitoring + rate-limits + anti-spam.
-- Start testing different “display” UX for probability + label.
-
 ## Further roadmap
 
 - If legally viable, explore real-money markets via a compliant structure (CFTC / partner / geofencing).

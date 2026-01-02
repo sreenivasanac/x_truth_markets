@@ -119,22 +119,6 @@ To keep the system legitimate across different viewpoints:
 - “Add 0–3 evidence links”
 - “You must submit before seeing others’ forecasts”
 
-## MVP plan
-
-- browser extension overlay + claim pages
-- manual claim creation for a small set of high-impact posts
-- forecast submission + “commit then reveal”
-- simple aggregation + displayed probability
-- resolution workflow + scoring + user accuracy profiles
-- better AI claim extraction + dedupe
-- abuse monitoring + basic governance process
-
-## Further roadmap
-
-- More automated resolution where possible
-- Domain-specific reputation (e.g., medicine vs geopolitics)
-- Optional “market mode” for some claims if legally viable
-
 ## Open questions for future R&D
 
 - How do we prevent “team sports” forecasting (people using forecasts as identity signals)?

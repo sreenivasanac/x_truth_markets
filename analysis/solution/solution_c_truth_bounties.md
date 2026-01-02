@@ -107,20 +107,6 @@ Mitigations:
 ### Challenger view
 - “Start a challenge” → stake amount → upload/attach evidence links → submit
 
-## MVP plan
-- claim pages + manual challenges
-- simple web UI + overlay
-- bounty posting + staking (start with play-money credits if needed)
-- jury workflow + explicit resolution rules + appeals
-- AI assistant to help collect/summarize evidence (careful: it must cite sources)
-- abuse protection + participant privacy features
-
-## Further roadmap
-
-- richer dispute system (more scalable juries)
-- better AI evidence tooling + verification
-- optional integration with markets for “fast probability” signals
-
 ## Open questions for future R&D
 
 - How do we ensure the dispute system stays credibly neutral at scale?
