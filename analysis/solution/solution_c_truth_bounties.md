@@ -107,7 +107,7 @@ Mitigations:
 ### Challenger view
 - “Start a challenge” → stake amount → upload/attach evidence links → submit
 
-## MVP plan (6–10 weeks)
+## MVP plan
 - claim pages + manual challenges
 - simple web UI + overlay
 - bounty posting + staking (start with play-money credits if needed)
@@ -115,7 +115,7 @@ Mitigations:
 - AI assistant to help collect/summarize evidence (careful: it must cite sources)
 - abuse protection + participant privacy features
 
-## 1–3 year roadmap
+## Further roadmap
 
 - richer dispute system (more scalable juries)
 - better AI evidence tooling + verification

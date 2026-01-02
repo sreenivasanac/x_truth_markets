@@ -1,6 +1,6 @@
 # Solution B: Reputation Forecasting + Calibration (No Real-Money Market)
 
-![Solution B architecture](../images/solution_b_architecture2.png)
+![Solution B architecture](../images/solution_b_architecture.png)
 
 ## TL;DR
 
@@ -119,7 +119,7 @@ To keep the system legitimate across different viewpoints:
 - “Add 0–3 evidence links”
 - “You must submit before seeing others’ forecasts”
 
-## MVP plan (6–10 weeks)
+## MVP plan
 
 - browser extension overlay + claim pages
 - manual claim creation for a small set of high-impact posts
@@ -129,7 +129,7 @@ To keep the system legitimate across different viewpoints:
 - better AI claim extraction + dedupe
 - abuse monitoring + basic governance process
 
-## 1–3 year roadmap
+## Further roadmap
 
 - More automated resolution where possible
 - Domain-specific reputation (e.g., medicine vs geopolitics)

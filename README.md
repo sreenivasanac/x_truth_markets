@@ -1,6 +1,6 @@
-# misinformation_detection
+# Truth Markets in X, to replace Community Notes
 
-This repo contains prompts and design explorations for a better fact-verification / misinformation-detection system for X (Twitter), with an emphasis on **prediction-market-style incentives** and related mechanisms.
+This repo contains prompts and design explorations for a better Truth-verification for X (Twitter), to replace Community Notes -- using **prediction-market-style incentives** and related mechanisms.
 
 ## Prompts
 

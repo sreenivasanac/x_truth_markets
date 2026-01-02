@@ -1,6 +1,6 @@
 # Solution A: Free‑Market Claim Prediction Markets for X
 
-![Solution A architecture](../images/solution_a_architecture2.png)
+![Solution A architecture](../images/solution_a_architecture.png)
 
 ## TL;DR
 
@@ -110,7 +110,7 @@ Practical rules inspired by “credible neutrality”:
   - links to primary sources
   - buy/sell YES/NO
 
-## MVP plan (6–10 weeks)
+## MVP plan
 
 - Browser extension (or simple web overlay) that attaches a “claim page” link to selected tweets.
 - Human-in-the-loop claim creation (manual claim entry + template).
@@ -122,7 +122,7 @@ Practical rules inspired by “credible neutrality”:
 - Monitoring + rate-limits + anti-spam.
 - Start testing different “display” UX for probability + label.
 
-## 1–3 year roadmap
+## Further roadmap
 
 - If legally viable, explore real-money markets via a compliant structure (CFTC / partner / geofencing).
 - Scale to more claims using AI to suggest which posts deserve markets (see https://medium.com/inception-capital/the-prediction-market-primitive-e48a055676bf).
