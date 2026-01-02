@@ -12,14 +12,14 @@ This repo contains prompts and design explorations for a better Truth-verificati
 
 Each solution below includes a high-level mechanism + incentives + resolution approach, plus an architecture diagram.
 
-- **Solution A — Free-market claim prediction markets (Polymarket-like)**: [`analysis/solution/solution_a_free_market_prediction_markets.md`](analysis/solution/solution_a_free_market_prediction_markets.md)
-  - Diagram: [`analysis/images/solution_a_architecture2.png`](analysis/images/solution_a_architecture2.png)
+- **Solution A — Free-market claim prediction markets (Polymarket-like)**: [`solution/solution_a_free_market_prediction_markets.md`](solution/solution_a_free_market_prediction_markets.md)
+  - Diagram: [`images/solution_a_architecture2.png`](images/solution_a_architecture2.png)
 
-- **Solution B — Reputation forecasting + calibration (no real-money market)**: [`analysis/solution/solution_b_reputation_forecasting.md`](analysis/solution/solution_b_reputation_forecasting.md)
-  - Diagram: [`analysis/images/solution_b_architecture.png`](analysis/images/solution_b_architecture.png)
+- **Solution B — Reputation forecasting + calibration (no real-money market)**: [`solution/solution_b_reputation_forecasting.md`](solution/solution_b_reputation_forecasting.md)
+  - Diagram: [`images/solution_b_architecture.png`](images/solution_b_architecture.png)
 
-- **Solution C — Truth bounties / challenge markets**: [`analysis/solution/solution_c_truth_bounties.md`](analysis/solution/solution_c_truth_bounties.md)
-  - Diagram: [`analysis/images/solution_c_architecture.png`](analysis/images/solution_c_architecture.png)
+- **Solution C — Truth bounties / challenge markets**: [`solution/solution_c_truth_bounties.md`](solution/solution_c_truth_bounties.md)
+  - Diagram: [`images/solution_c_architecture.png`](images/solution_c_architecture.png)
 
 ## Inputs
 

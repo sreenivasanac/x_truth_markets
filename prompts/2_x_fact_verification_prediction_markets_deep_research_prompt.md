@@ -67,7 +67,7 @@ Write 2-3 solutions approaches - in separate markdown files (or pdf whichever is
 ## Provided Source Documents (must be incorporated)
 
 - Use these sources as required reading; cite them by **URL** (for web sources) or **filename** (for local files) when you use ideas from them.
-- Local files are present in the folder `/misinformation_detection/documents/`.
+- Local files are present in the folder `/x_truth_markets/documents/`.
 
 ### Web sources
 
@@ -106,9 +106,9 @@ Use these only if they help one of the solutions (don’t force them). Reason fr
 
 ## Output Format
 
-Create 2-3 solutions - each with their individual Markdown document in the `analysis` folder with the following:
+Create 2-3 solutions - each with their individual Markdown document in the `solution` folder with the following:
 - headings and bullet points written in **normal, clear language** whenever possible (define jargon when used; use technical terms only when they add clarity)
-- 1-2 architecture/system design diagrams (and any other suitable diagrams) generated as images using the **Google Nano Banana Pro MCP server**. Save all generated images in `analysis/images`.
+- 1-2 architecture/system design diagrams (and any other suitable diagrams) generated as images using the **Google Nano Banana Pro MCP server**. Save all generated images in `images/` folder.
 - examples (e.g., what a user would see on a tweet, how a participant would interact)
 - at least one worked example of payouts/reputation updates (toy numbers are fine; majority vs minority outcomes)
 - open questions for future R&D
