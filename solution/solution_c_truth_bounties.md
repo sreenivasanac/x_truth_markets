@@ -2,34 +2,6 @@
 
 ![Solution C architecture](../images/solution_c_architecture.png)
 
-## UI mockups (bounties + challenges)
-
-Below are Figma-like UI mockups showing how Solution C would look to end users.
-
-### 1) Reader: X post overlay (case status + bounty total)
-
-![UI mockup: X post overlay (Solution C)](../images/solution_c/ui_solution_c_01_x_overlay.png)
-
-### 2) Reader: case page (criteria, timeline, evidence highlights)
-
-![UI mockup: case page (Solution C)](../images/solution_c/ui_solution_c_02_case_page.png)
-
-### 3) Bounty funder: add bounty (fund the investigation)
-
-![UI mockup: add bounty (Solution C)](../images/solution_c/ui_solution_c_03_add_bounty.png)
-
-### 4) Challenger: start challenge (stake + evidence pack)
-
-![UI mockup: start challenge (Solution C)](../images/solution_c/ui_solution_c_04_start_challenge.png)
-
-### 5) Reader/Challenger: case timeline (dispute process)
-
-![UI mockup: case timeline (Solution C)](../images/solution_c/ui_solution_c_05_case_timeline.png)
-
-### 6) Jury/Resolver: resolution console (decision + payout preview)
-
-![UI mockup: resolver console (Solution C)](../images/solution_c/ui_solution_c_06_resolver_console.png)
-
 ## TL;DR
 
 Instead of a continuous prediction market, use a simpler “challenge” model:
@@ -134,6 +106,19 @@ Mitigations:
 
 ### Challenger view
 - “Start a challenge” → stake amount → upload/attach evidence links → submit
+
+## UI mockups (bounties + challenges)
+
+<div>
+  <a href="../images/ui_solution_c_01_x_overlay.png"><img src="../images/ui_solution_c_01_x_overlay.png" alt="Reader: X post overlay" width="180" /></a>
+  <a href="../images/ui_solution_c_02_case_page.png"><img src="../images/ui_solution_c_02_case_page.png" alt="Reader: case page" width="180" /></a>
+  <a href="../images/ui_solution_c_03_add_bounty.png"><img src="../images/ui_solution_c_03_add_bounty.png" alt="Bounty funder: add bounty" width="180" /></a>
+  <a href="../images/ui_solution_c_04_start_challenge.png"><img src="../images/ui_solution_c_04_start_challenge.png" alt="Challenger: start challenge" width="180" /></a>
+  <a href="../images/ui_solution_c_05_case_timeline.png"><img src="../images/ui_solution_c_05_case_timeline.png" alt="Reader/Challenger: case timeline" width="180" /></a>
+  <a href="../images/ui_solution_c_06_resolver_console.png"><img src="../images/ui_solution_c_06_resolver_console.png" alt="Jury/Resolver: resolution console" width="320" /></a>
+</div>
+
+- Click any thumbnail to open the full image.
 
 ## Open questions for future R&D
 

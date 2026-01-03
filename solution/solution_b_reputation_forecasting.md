@@ -2,34 +2,6 @@
 
 ![Solution B architecture](../images/solution_b_architecture.png)
 
-## UI mockups (forecasting + reputation)
-
-Below are Figma-like UI mockups showing how Solution B would look to end users.
-
-### 1) Reader: X post overlay (truth signal + CTA)
-
-![UI mockup: X post overlay (Solution B)](../images/solution_b/ui_solution_b_01_x_overlay.png)
-
-### 2) Reader/Forecaster: forecast detail (question, criteria, aggregate)
-
-![UI mockup: forecast detail (Solution B)](../images/solution_b/ui_solution_b_02_forecast_detail.png)
-
-### 3) Forecaster: submit forecast (commit-first anti-herding)
-
-![UI mockup: submit forecast (Solution B)](../images/solution_b/ui_solution_b_03_submit_forecast.png)
-
-### 4) Forecaster: after submit (distribution + your position)
-
-![UI mockup: after submit distribution (Solution B)](../images/solution_b/ui_solution_b_04_after_submit_distribution.png)
-
-### 5) Forecaster: reputation profile (accuracy + calibration)
-
-![UI mockup: forecaster profile (Solution B)](../images/solution_b/ui_solution_b_05_forecaster_profile.png)
-
-### 6) Jury/Resolver: resolution console (decision + citations)
-
-![UI mockup: resolver console (Solution B)](../images/solution_b/ui_solution_b_06_resolver_console.png)
-
 ## TL;DR
 
 Instead of a tradable market, run a **forecasting system**: people submit probabilities, the system later resolves the claim, and it updates each forecaster’s public accuracy profile. The displayed probability is a weighted average that gives more weight to people who have been accurate in the past.
@@ -146,6 +118,19 @@ To keep the system legitimate across different viewpoints:
 - “Submit your probability (0–100%)”
 - “Add 0–3 evidence links”
 - “You must submit before seeing others’ forecasts”
+
+## UI mockups (forecasting + reputation)
+
+<div>
+  <a href="../images/ui_solution_b_01_x_overlay.png"><img src="../images/ui_solution_b_01_x_overlay.png" alt="Reader: X post overlay" width="180" /></a>
+  <a href="../images/ui_solution_b_02_forecast_detail.png"><img src="../images/ui_solution_b_02_forecast_detail.png" alt="Reader/Forecaster: forecast detail" width="180" /></a>
+  <a href="../images/ui_solution_b_03_submit_forecast.png"><img src="../images/ui_solution_b_03_submit_forecast.png" alt="Forecaster: submit forecast" width="180" /></a>
+  <a href="../images/ui_solution_b_04_after_submit_distribution.png"><img src="../images/ui_solution_b_04_after_submit_distribution.png" alt="Forecaster: after submit distribution" width="180" /></a>
+  <a href="../images/ui_solution_b_05_forecaster_profile.png"><img src="../images/ui_solution_b_05_forecaster_profile.png" alt="Forecaster: reputation profile" width="180" /></a>
+  <a href="../images/ui_solution_b_06_resolver_console.png"><img src="../images/ui_solution_b_06_resolver_console.png" alt="Jury/Resolver: resolution console" width="320" /></a>
+</div>
+
+- Click any thumbnail to open the full image.
 
 ## Open questions for future R&D
 
