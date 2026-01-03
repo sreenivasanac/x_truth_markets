@@ -2,6 +2,34 @@
 
 ![Solution A architecture](../images/solution_a_architecture.png)
 
+## UI mockups (real-money)
+
+Below are Figma-like UI mockups showing how Solution A would look to end users.
+
+### 1) Reader: X post overlay (truth signal + CTA)
+
+![UI mockup: X post overlay (real-money)](../images/ui_solution_a_money_01_x_overlay.png)
+
+### 2) Reader/Trader: claim + market page (canonical question, rules, chart)
+
+![UI mockup: claim + market page (real-money)](../images/ui_solution_a_money_02_claim_market.png)
+
+### 3) Trader: trade ticket + evidence preview (buy/sell YES/NO)
+
+![UI mockup: trade ticket + evidence (real-money)](../images/ui_solution_a_money_03_trade_research.png)
+
+### 4) Trader: submit evidence (links + source typing + optional stake)
+
+![UI mockup: add evidence (real-money)](../images/ui_solution_a_money_04_add_evidence.png)
+
+### 5) Resolver (panel/jury): resolution console (decision + audit log)
+
+![UI mockup: resolver console (real-money)](../images/ui_solution_a_money_05_resolver_console.png)
+
+### 6) Admin/Ops: market integrity watchtower (manipulation monitoring)
+
+![UI mockup: watchtower dashboard (real-money)](../images/ui_solution_a_money_06_watchtower_dashboard.png)
+
 ## TL;DR
 
 Turn important, clearly checkable claims on X into simple **YES/NO markets**. The market price becomes a public “how likely is this true?” signal. People who are right make money (or reputation), people who are wrong lose it. If a small minority is right against the crowd, they earn outsized returns by buying in when the price is low.

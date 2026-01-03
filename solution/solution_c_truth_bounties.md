@@ -2,6 +2,34 @@
 
 ![Solution C architecture](../images/solution_c_architecture.png)
 
+## UI mockups (bounties + challenges)
+
+Below are Figma-like UI mockups showing how Solution C would look to end users.
+
+### 1) Reader: X post overlay (case status + bounty total)
+
+![UI mockup: X post overlay (Solution C)](../images/ui_solution_c_01_x_overlay.png)
+
+### 2) Reader: case page (criteria, timeline, evidence highlights)
+
+![UI mockup: case page (Solution C)](../images/ui_solution_c_02_case_page.png)
+
+### 3) Bounty funder: add bounty (fund the investigation)
+
+![UI mockup: add bounty (Solution C)](../images/ui_solution_c_03_add_bounty.png)
+
+### 4) Challenger: start challenge (stake + evidence pack)
+
+![UI mockup: start challenge (Solution C)](../images/ui_solution_c_04_start_challenge.png)
+
+### 5) Reader/Challenger: case timeline (dispute process)
+
+![UI mockup: case timeline (Solution C)](../images/ui_solution_c_05_case_timeline.png)
+
+### 6) Jury/Resolver: resolution console (decision + payout preview)
+
+![UI mockup: resolver console (Solution C)](../images/ui_solution_c_06_resolver_console.png)
+
 ## TL;DR
 
 Instead of a continuous prediction market, use a simpler “challenge” model:
