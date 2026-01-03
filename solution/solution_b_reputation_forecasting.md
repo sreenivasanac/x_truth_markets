@@ -8,27 +8,27 @@ Below are Figma-like UI mockups showing how Solution B would look to end users.
 
 ### 1) Reader: X post overlay (truth signal + CTA)
 
-![UI mockup: X post overlay (Solution B)](../images/ui_solution_b_01_x_overlay.png)
+![UI mockup: X post overlay (Solution B)](../images/solution_b/ui_solution_b_01_x_overlay.png)
 
 ### 2) Reader/Forecaster: forecast detail (question, criteria, aggregate)
 
-![UI mockup: forecast detail (Solution B)](../images/ui_solution_b_02_forecast_detail.png)
+![UI mockup: forecast detail (Solution B)](../images/solution_b/ui_solution_b_02_forecast_detail.png)
 
 ### 3) Forecaster: submit forecast (commit-first anti-herding)
 
-![UI mockup: submit forecast (Solution B)](../images/ui_solution_b_03_submit_forecast.png)
+![UI mockup: submit forecast (Solution B)](../images/solution_b/ui_solution_b_03_submit_forecast.png)
 
 ### 4) Forecaster: after submit (distribution + your position)
 
-![UI mockup: after submit distribution (Solution B)](../images/ui_solution_b_04_after_submit_distribution.png)
+![UI mockup: after submit distribution (Solution B)](../images/solution_b/ui_solution_b_04_after_submit_distribution.png)
 
 ### 5) Forecaster: reputation profile (accuracy + calibration)
 
-![UI mockup: forecaster profile (Solution B)](../images/ui_solution_b_05_forecaster_profile.png)
+![UI mockup: forecaster profile (Solution B)](../images/solution_b/ui_solution_b_05_forecaster_profile.png)
 
 ### 6) Jury/Resolver: resolution console (decision + citations)
 
-![UI mockup: resolver console (Solution B)](../images/ui_solution_b_06_resolver_console.png)
+![UI mockup: resolver console (Solution B)](../images/solution_b/ui_solution_b_06_resolver_console.png)
 
 ## TL;DR
 
