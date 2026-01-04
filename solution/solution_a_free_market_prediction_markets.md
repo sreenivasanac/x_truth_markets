@@ -1,8 +1,10 @@
 # Solution A: Free‑Market Claim Prediction Markets for X
 
+A Polymarket-like model for X: turn checkable claims into **YES/NO markets** where the price is a public probability signal. Participants who are right (especially contrarian/correct) earn money or reputation, while being wrong is penalized via losses, with outcomes anchored by explicit resolution rules.
+
 ![Solution A architecture](../images/solution_a_architecture.png)
 
-## TL;DR
+## Quick summary
 
 Turn important, clearly checkable claims on X into simple **YES/NO markets**. The market price becomes a public “how likely is this true?” signal. People who are right make money (or reputation), people who are wrong lose it. If a small minority is right against the crowd, they earn outsized returns by buying in when the price is low.
 
@@ -113,12 +115,12 @@ Practical rules inspired by “credible neutrality”:
 ## UI mockups (real-money)
 
 <div>
-  <a href="../images/ui_solution_a_money_01_x_overlay.png"><img src="../images/ui_solution_a_money_01_x_overlay.png" alt="Reader: X post overlay" width="180" /></a>
-  <a href="../images/ui_solution_a_money_02_claim_market.png"><img src="../images/ui_solution_a_money_02_claim_market.png" alt="Reader/Trader: claim + market page" width="180" /></a>
-  <a href="../images/ui_solution_a_money_03_trade_research.png"><img src="../images/ui_solution_a_money_03_trade_research.png" alt="Trader: trade ticket + evidence" width="180" /></a>
-  <a href="../images/ui_solution_a_money_04_add_evidence.png"><img src="../images/ui_solution_a_money_04_add_evidence.png" alt="Trader: add evidence" width="180" /></a>
-  <a href="../images/ui_solution_a_money_05_resolver_console.png"><img src="../images/ui_solution_a_money_05_resolver_console.png" alt="Resolver: resolution console" width="240" /></a>
-  <a href="../images/ui_solution_a_money_06_watchtower_dashboard.png"><img src="../images/ui_solution_a_money_06_watchtower_dashboard.png" alt="Admin/Ops: watchtower dashboard" width="240" /></a>
+  <a href="../images/solution_a/ui_solution_a_money_01_x_overlay.png"><img src="../images/solution_a/ui_solution_a_money_01_x_overlay.png" alt="Reader: X post overlay" width="180" /></a>
+  <a href="../images/solution_a/ui_solution_a_money_02_claim_market.png"><img src="../images/solution_a/ui_solution_a_money_02_claim_market.png" alt="Reader/Trader: claim + market page" width="180" /></a>
+  <a href="../images/solution_a/ui_solution_a_money_03_trade_research.png"><img src="../images/solution_a/ui_solution_a_money_03_trade_research.png" alt="Trader: trade ticket + evidence" width="180" /></a>
+  <a href="../images/solution_a/ui_solution_a_money_04_add_evidence.png"><img src="../images/solution_a/ui_solution_a_money_04_add_evidence.png" alt="Trader: add evidence" width="180" /></a>
+  <a href="../images/solution_a/ui_solution_a_money_05_resolver_console.png"><img src="../images/solution_a/ui_solution_a_money_05_resolver_console.png" alt="Resolver: resolution console" width="240" /></a>
+  <a href="../images/solution_a/ui_solution_a_money_06_watchtower_dashboard.png"><img src="../images/solution_a/ui_solution_a_money_06_watchtower_dashboard.png" alt="Admin/Ops: watchtower dashboard" width="240" /></a>
 </div>
 
 - Click any thumbnail to open the full image.

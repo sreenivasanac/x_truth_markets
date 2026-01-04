@@ -1,8 +1,10 @@
 # Solution C: Truth Bounties / Challenge Markets for X
 
+A “bounty + challenge” model: fund truth bounties on specific claims, let challengers stake and submit evidence, and resolve via an explicit dispute/arbitration process. Winners get paid and gain reputation; losers lose stake, focusing effort on high-impact claims without continuous trading.
+
 ![Solution C architecture](../images/solution_c_architecture.png)
 
-## TL;DR
+## Quick summary
 
 Instead of a continuous prediction market, use a simpler “challenge” model:
 
@@ -110,12 +112,12 @@ Mitigations:
 ## UI mockups (bounties + challenges)
 
 <div>
-  <a href="../images/ui_solution_c_01_x_overlay.png"><img src="../images/ui_solution_c_01_x_overlay.png" alt="Reader: X post overlay" width="180" /></a>
-  <a href="../images/ui_solution_c_02_case_page.png"><img src="../images/ui_solution_c_02_case_page.png" alt="Reader: case page" width="180" /></a>
-  <a href="../images/ui_solution_c_03_add_bounty.png"><img src="../images/ui_solution_c_03_add_bounty.png" alt="Bounty funder: add bounty" width="180" /></a>
-  <a href="../images/ui_solution_c_04_start_challenge.png"><img src="../images/ui_solution_c_04_start_challenge.png" alt="Challenger: start challenge" width="180" /></a>
-  <a href="../images/ui_solution_c_05_case_timeline.png"><img src="../images/ui_solution_c_05_case_timeline.png" alt="Reader/Challenger: case timeline" width="180" /></a>
-  <a href="../images/ui_solution_c_06_resolver_console.png"><img src="../images/ui_solution_c_06_resolver_console.png" alt="Jury/Resolver: resolution console" width="320" /></a>
+  <a href="../images/solution_c/ui_solution_c_01_x_overlay.png"><img src="../images/solution_c/ui_solution_c_01_x_overlay.png" alt="Reader: X post overlay" width="180" /></a>
+  <a href="../images/solution_c/ui_solution_c_02_case_page.png"><img src="../images/solution_c/ui_solution_c_02_case_page.png" alt="Reader: case page" width="180" /></a>
+  <a href="../images/solution_c/ui_solution_c_03_add_bounty.png"><img src="../images/solution_c/ui_solution_c_03_add_bounty.png" alt="Bounty funder: add bounty" width="180" /></a>
+  <a href="../images/solution_c/ui_solution_c_04_start_challenge.png"><img src="../images/solution_c/ui_solution_c_04_start_challenge.png" alt="Challenger: start challenge" width="180" /></a>
+  <a href="../images/solution_c/ui_solution_c_05_case_timeline.png"><img src="../images/solution_c/ui_solution_c_05_case_timeline.png" alt="Reader/Challenger: case timeline" width="180" /></a>
+  <a href="../images/solution_c/ui_solution_c_06_resolver_console.png"><img src="../images/solution_c/ui_solution_c_06_resolver_console.png" alt="Jury/Resolver: resolution console" width="320" /></a>
 </div>
 
 - Click any thumbnail to open the full image.

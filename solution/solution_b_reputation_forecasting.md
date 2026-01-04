@@ -1,8 +1,10 @@
 # Solution B: Reputation Forecasting + Calibration (No Real-Money Market)
 
+A non-wager forecasting system: users submit probabilities on checkable claims and are scored after resolution, building a public accuracy reputation over time. Aggregation weights forecasters by historical calibration/accuracy, rewarding contrarian-correct calls without requiring a tradable market.
+
 ![Solution B architecture](../images/solution_b_architecture.png)
 
-## TL;DR
+## Quick summary
 
 Instead of a tradable market, run a **forecasting system**: people submit probabilities, the system later resolves the claim, and it updates each forecaster’s public accuracy profile. The displayed probability is a weighted average that gives more weight to people who have been accurate in the past.
 
@@ -122,12 +124,12 @@ To keep the system legitimate across different viewpoints:
 ## UI mockups (forecasting + reputation)
 
 <div>
-  <a href="../images/ui_solution_b_01_x_overlay.png"><img src="../images/ui_solution_b_01_x_overlay.png" alt="Reader: X post overlay" width="180" /></a>
-  <a href="../images/ui_solution_b_02_forecast_detail.png"><img src="../images/ui_solution_b_02_forecast_detail.png" alt="Reader/Forecaster: forecast detail" width="180" /></a>
-  <a href="../images/ui_solution_b_03_submit_forecast.png"><img src="../images/ui_solution_b_03_submit_forecast.png" alt="Forecaster: submit forecast" width="180" /></a>
-  <a href="../images/ui_solution_b_04_after_submit_distribution.png"><img src="../images/ui_solution_b_04_after_submit_distribution.png" alt="Forecaster: after submit distribution" width="180" /></a>
-  <a href="../images/ui_solution_b_05_forecaster_profile.png"><img src="../images/ui_solution_b_05_forecaster_profile.png" alt="Forecaster: reputation profile" width="180" /></a>
-  <a href="../images/ui_solution_b_06_resolver_console.png"><img src="../images/ui_solution_b_06_resolver_console.png" alt="Jury/Resolver: resolution console" width="320" /></a>
+  <a href="../images/solution_b/ui_solution_b_01_x_overlay.png"><img src="../images/solution_b/ui_solution_b_01_x_overlay.png" alt="Reader: X post overlay" width="180" /></a>
+  <a href="../images/solution_b/ui_solution_b_02_forecast_detail.png"><img src="../images/solution_b/ui_solution_b_02_forecast_detail.png" alt="Reader/Forecaster: forecast detail" width="180" /></a>
+  <a href="../images/solution_b/ui_solution_b_03_submit_forecast.png"><img src="../images/solution_b/ui_solution_b_03_submit_forecast.png" alt="Forecaster: submit forecast" width="180" /></a>
+  <a href="../images/solution_b/ui_solution_b_04_after_submit_distribution.png"><img src="../images/solution_b/ui_solution_b_04_after_submit_distribution.png" alt="Forecaster: after submit distribution" width="180" /></a>
+  <a href="../images/solution_b/ui_solution_b_05_forecaster_profile.png"><img src="../images/solution_b/ui_solution_b_05_forecaster_profile.png" alt="Forecaster: reputation profile" width="180" /></a>
+  <a href="../images/solution_b/ui_solution_b_06_resolver_console.png"><img src="../images/solution_b/ui_solution_b_06_resolver_console.png" alt="Jury/Resolver: resolution console" width="320" /></a>
 </div>
 
 - Click any thumbnail to open the full image.
